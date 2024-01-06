@@ -1,0 +1,18 @@
+
+/* Designing a Miami Experience */
+body {
+    background-color:lightblue;
+  }
+
+div {
+    background-color: aqua;
+    opacity: 0.3;
+
+}
+
+p.dotted {border-style: dotted;}
+
+p.one {
+    border-style: solid;
+    border-color: red;
+  }
